@@ -1,0 +1,15 @@
+{
+  "ignore": [
+    ".next",
+    "node_modules",
+    "dist",
+    "next.config.ts",
+    "tailwind.config.ts",
+    "src/app/layout.tsx",
+    "src/app/**/page.tsx",
+    "src/app/**/error.tsx",
+    "src/app/**/loading.tsx",
+    "src/app/**/not-found.tsx",
+    "src/app/**/metadata.ts"
+  ]
+}

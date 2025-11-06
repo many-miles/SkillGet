@@ -1,0 +1,1341 @@
+{
+  "services": [
+    {
+      "_id": "1",
+      "title": "Professional Surfing Lessons",
+      "slug": {
+        "current": "professional-surfing-lessons"
+      },
+      "_createdAt": "2024-01-15T10:00:00Z",
+      "author": {
+        "_id": "author1",
+        "name": "John Surf",
+        "username": "johnsurf",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=John",
+        "bio": "Professional surf instructor with 10 years experience"
+      },
+      "image": "https://images.unsplash.com/photo-1502933691298-84fc14542831?w=800",
+      "category": "surfing",
+      "description": "Learn to surf with experienced instructors in the best waves of Jeffreys Bay",
+      "views": 145,
+      "pitch": "## About Our Lessons\n\nWe offer personalized surfing lessons for all skill levels.\n\n### What's Included:\n- Professional instruction\n- Equipment rental\n- Safety briefing\n- 2-hour session",
+      "location": {
+        "lat": -34.0489,
+        "lng": 24.9087
+      },
+      "priceRange": "moderate",
+      "serviceRadius": 5,
+      "availability": [
+        "monday",
+        "wednesday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "contactMethod": "whatsapp",
+      "contactDetails": "+27 82 555 1234",
+      "isActive": true,
+      "featured": true
+    },
+    {
+      "_id": "2",
+      "title": "Beachfront Accommodation",
+      "slug": {
+        "current": "beachfront-accommodation"
+      },
+      "_createdAt": "2024-01-20T14:30:00Z",
+      "author": {
+        "_id": "author2",
+        "name": "Sarah Ocean",
+        "username": "sarahocean",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+        "bio": "Accommodation specialist"
+      },
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800",
+      "category": "accommodation",
+      "description": "Comfortable beachfront rooms with stunning ocean views",
+      "views": 289,
+      "pitch": "## Beachfront Paradise\n\nWake up to the sound of waves.\n\n### Amenities:\n- Ocean view rooms\n- Free WiFi\n- Breakfast included\n- Parking available",
+      "location": {
+        "lat": -34.0512,
+        "lng": 24.9123
+      },
+      "priceRange": "premium",
+      "serviceRadius": 10,
+      "availability": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "contactMethod": "phone",
+      "contactDetails": "+27 82 555 5678",
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "3",
+      "title": "Local Food Tours",
+      "slug": {
+        "current": "local-food-tours"
+      },
+      "_createdAt": "2024-02-01T09:15:00Z",
+      "author": {
+        "_id": "author3",
+        "name": "Mike Foodie",
+        "username": "mikefoodie",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+        "bio": "Food enthusiast and tour guide"
+      },
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800",
+      "category": "food",
+      "description": "Experience the best local cuisine with guided food tours",
+      "views": 178,
+      "pitch": "## Taste of Jeffreys Bay\n\nDiscover hidden culinary gems.\n\n### Tour Highlights:\n- 5 food stops\n- Local specialties\n- 3-hour tour\n- Small groups",
+      "location": {
+        "lat": -34.0467,
+        "lng": 24.9045
+      },
+      "priceRange": "moderate",
+      "serviceRadius": 8,
+      "availability": [
+        "tuesday",
+        "thursday",
+        "saturday"
+      ],
+      "contactMethod": "email",
+      "contactDetails": "mike@foodtours.co.za",
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "4",
+      "title": "Beach Yoga Classes",
+      "slug": {
+        "current": "beach-yoga-classes"
+      },
+      "_createdAt": "2024-02-10T07:00:00Z",
+      "author": {
+        "_id": "author4",
+        "name": "Lisa Zen",
+        "username": "lisazen",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Lisa",
+        "bio": "Certified yoga instructor"
+      },
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800",
+      "category": "beauty",
+      "description": "Morning yoga sessions on the beach for all levels",
+      "views": 92,
+      "pitch": "## Beach Yoga Experience\n\nStart your day with beach yoga.\n\n### Class Info:\n- All levels welcome\n- Mats provided\n- 1-hour sessions\n- Sunrise classes",
+      "location": {
+        "lat": -34.0501,
+        "lng": 24.9098
+      },
+      "priceRange": "budget",
+      "serviceRadius": 3,
+      "availability": [
+        "monday",
+        "wednesday",
+        "friday",
+        "sunday"
+      ],
+      "contactMethod": "whatsapp",
+      "contactDetails": "+27 82 555 9012",
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "5",
+      "title": "Airport Shuttle Service",
+      "slug": {
+        "current": "airport-shuttle-service"
+      },
+      "_createdAt": "2024-02-15T11:45:00Z",
+      "author": {
+        "_id": "author5",
+        "name": "David Drive",
+        "username": "daviddrive",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=David",
+        "bio": "Professional driver"
+      },
+      "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800",
+      "category": "transport",
+      "description": "Reliable airport transfers and local transport services",
+      "views": 156,
+      "pitch": "## Safe & Reliable Transport\n\nDoor-to-door service.\n\n### Services:\n- Airport transfers\n- Local trips\n- Clean vehicles\n- Professional drivers",
+      "location": {
+        "lat": -34.0478,
+        "lng": 24.9067
+      },
+      "priceRange": "moderate",
+      "serviceRadius": 50,
+      "availability": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "contactMethod": "phone",
+      "contactDetails": "+27 82 555 3456",
+      "isActive": true,
+      "featured": true
+    },
+    {
+      "title": "Test Service",
+      "description": "This is a Test Service",
+      "category": "accommodation",
+      "image": "https://cdn.pixabay.com/photo/2014/06/03/19/38/board-361516__340.jpg",
+      "location": {
+        "lat": -34.05574091635839,
+        "lng": 24.922694493672417
+      },
+      "author": {
+        "_id": "1760592549226",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "priceRange": "free",
+      "contactMethod": "phone",
+      "contactDetails": "0736112042",
+      "serviceRadius": "8",
+      "pitch": "Test Service creation Description. ",
+      "slug": {
+        "current": "test-service"
+      },
+      "_id": "1760596247806",
+      "_createdAt": "2025-10-16T06:30:47.806Z",
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "title": "Test Service 2",
+      "description": "Test Service 2 Description",
+      "category": "surfing",
+      "image": "https://cdn.pixabay.com/photo/2014/06/03/19/38/board-361516__340.jpg",
+      "location": {
+        "lat": -34.03748733815405,
+        "lng": 24.775728335119453
+      },
+      "author": {
+        "_id": "1760592549226",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "priceRange": "budget",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": "5",
+      "pitch": "Test Service 2 Detailed Descripion",
+      "slug": {
+        "current": "test-service-2"
+      },
+      "_id": "1760597039686",
+      "_createdAt": "2025-10-16T06:43:59.686Z",
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760686253666",
+      "_createdAt": "2025-10-17T07:30:53.666Z",
+      "title": "Test Service 3",
+      "slug": {
+        "current": "final-test"
+      },
+      "description": "This is the short description for Test Service 3",
+      "category": "events",
+      "image": "https://th.bing.com/th/id/R.e3ad7f72bab96d3b7f6566514d79065c?rik=7gN1DLYEOnIKtw&pid=ImgRaw&r=0",
+      "pitch": "This is the detailed Description for Test Service 3. ",
+      "location": {
+        "lat": -34.035211293291304,
+        "lng": 24.764839891463463
+      },
+      "priceRange": "moderate",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 8,
+      "author": {
+        "_id": "demo-user",
+        "name": "Demo User",
+        "username": "demouser",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Demo",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760688039527",
+      "_createdAt": "2025-10-17T08:00:39.527Z",
+      "title": "Test Service 4",
+      "slug": {
+        "current": "final-test-2-"
+      },
+      "description": "Short Description of Test Service 4",
+      "category": "accommodation",
+      "image": "https://th.bing.com/th/id/R.e3ad7f72bab96d3b7f6566514d79065c?rik=7gN1DLYEOnIKtw&pid=ImgRaw&r=0",
+      "pitch": "Detailed Description of Test Service 4",
+      "location": {
+        "lat": -34.03634933203872,
+        "lng": 24.749686975174498
+      },
+      "priceRange": "budget",
+      "contactMethod": "email",
+      "contactDetails": "rscloete10@gmail.com",
+      "serviceRadius": 7,
+      "author": {
+        "_id": "1760686081566",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760688211751",
+      "_createdAt": "2025-10-17T08:03:31.751Z",
+      "title": "Test Service 5",
+      "slug": {
+        "current": "test-7-"
+      },
+      "description": "This is Test Service 5 SD.",
+      "category": "surfing",
+      "image": "https://th.bing.com/th/id/R.e3ad7f72bab96d3b7f6566514d79065c?rik=7gN1DLYEOnIKtw&pid=ImgRaw&r=0",
+      "pitch": "Test Service 5 Detailed Description.",
+      "location": {
+        "lat": -34.06782877243728,
+        "lng": 24.90909780115653
+      },
+      "priceRange": "budget",
+      "contactMethod": "whatsapp",
+      "contactDetails": "07361120242",
+      "serviceRadius": 5,
+      "author": {
+        "_id": "1760686081566",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760688873505",
+      "_createdAt": "2025-10-17T08:14:33.505Z",
+      "title": "Test Service 6",
+      "slug": {
+        "current": "menlo-park"
+      },
+      "description": "Short Description of Test Service 6.",
+      "category": "tours",
+      "image": "https://th.bing.com/th/id/R.e3ad7f72bab96d3b7f6566514d79065c?rik=7gN1DLYEOnIKtw&pid=ImgRaw&r=0",
+      "pitch": "This is the Detailed Description of Test Service 6",
+      "location": {
+        "lat": -34.060291841965864,
+        "lng": 24.90843786932315
+      },
+      "priceRange": "moderate",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "author": {
+        "_id": "1760686081566",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760689964018",
+      "_createdAt": "2025-10-17T08:32:44.018Z",
+      "title": "Test Service 7",
+      "slug": {
+        "current": "final-test-9"
+      },
+      "description": "Test Service 7 Short Description",
+      "category": "events",
+      "image": "https://th.bing.com/th/id/R.e3ad7f72bab96d3b7f6566514d79065c?rik=7gN1DLYEOnIKtw&pid=ImgRaw&r=0",
+      "pitch": "Test service 7etailed Description. ",
+      "location": {
+        "lat": -34.056309794472696,
+        "lng": 24.914104770637113
+      },
+      "priceRange": "premium",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "author": {
+        "_id": "1760686081566",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760690683723",
+      "_createdAt": "2025-10-17T08:44:43.723Z",
+      "title": "Test Service 8",
+      "slug": {
+        "current": "final-test-10.-"
+      },
+      "description": "Test Service 8 Short Description. ",
+      "category": "other",
+      "image": "https://th.bing.com/th/id/R.e3ad7f72bab96d3b7f6566514d79065c?rik=7gN1DLYEOnIKtw&pid=ImgRaw&r=0",
+      "pitch": "Test Service 8 Detailed Description. ",
+      "location": {
+        "lat": -34.037297681657755,
+        "lng": 24.928852707817917
+      },
+      "priceRange": "free",
+      "contactMethod": "phone",
+      "contactDetails": "0736112042",
+      "serviceRadius": 8,
+      "author": {
+        "_id": "1760686081566",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "title": "API Test Service",
+      "description": "Created via API",
+      "category": "tours",
+      "_id": "1760697304904",
+      "_createdAt": "2025-10-17T10:35:04.904Z",
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "title": "API Test Service",
+      "description": "Created via API",
+      "category": "tours",
+      "_id": "1760697513640",
+      "_createdAt": "2025-10-17T10:38:33.640Z",
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760698556298",
+      "_createdAt": "2025-10-17T10:55:56.298Z",
+      "title": "Professional Surfing Lessons",
+      "slug": {
+        "current": "professional-surfing-lessons"
+      },
+      "description": "Professional Surfing Lessons Duplicate Name",
+      "category": "surfing",
+      "image": "https://th.bing.com/th/id/R.e3ad7f72bab96d3b7f6566514d79065c?rik=7gN1DLYEOnIKtw&pid=ImgRaw&r=0",
+      "pitch": "Professional Surfing Lessons Duplicate Name",
+      "location": {
+        "lat": -34.0320816405757,
+        "lng": 24.923416316451245
+      },
+      "priceRange": "luxury",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "author": {
+        "_id": "1760695452299",
+        "name": "Carl",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Carl",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760698653070",
+      "_createdAt": "2025-10-17T10:57:33.070Z",
+      "title": "Empty Image Test",
+      "slug": {
+        "current": "empty-image-test"
+      },
+      "description": "Empty Image Link Test",
+      "category": "surfing",
+      "pitch": "Empty Image Link Test",
+      "location": {
+        "lat": -34.05678385900245,
+        "lng": 24.911182721557733
+      },
+      "priceRange": "free",
+      "contactMethod": "phone",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "author": {
+        "_id": "1760695452299",
+        "name": "Carl",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Carl",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760768518631",
+      "_createdAt": "2025-10-18T06:21:58.631Z",
+      "title": "Day Availability Feature Test",
+      "slug": {
+        "current": "day-availability-feature-test"
+      },
+      "description": "Day Availability Feature Test SD.",
+      "category": "home",
+      "image": "https://th.bing.com/th/id/R.e3ad7f72bab96d3b7f6566514d79065c?rik=7gN1DLYEOnIKtw&pid=ImgRaw&r=0",
+      "pitch": "Day Availability Feature Test DD. ",
+      "location": {
+        "lat": -34.10000726293641,
+        "lng": 24.894553731013023
+      },
+      "priceRange": "free",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "author": {
+        "_id": "1760768009485",
+        "name": "rscloete",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=rscloete",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760788224472",
+      "_createdAt": "2025-10-18T11:50:24.472Z",
+      "title": "Test Service Video",
+      "slug": {
+        "current": "test-service-video"
+      },
+      "description": "Short Description Video",
+      "category": "transport",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.iefq9lMWEfNuZuMo5IR--gHaE8?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Lonng Description Video Service.",
+      "location": {
+        "lat": -34.06048146005525,
+        "lng": 24.91273086852256
+      },
+      "priceRange": "premium",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday"
+      ],
+      "author": {
+        "_id": "1760787648654",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760788510810",
+      "_createdAt": "2025-10-18T11:55:10.810Z",
+      "title": "Test Service Video 2",
+      "slug": {
+        "current": "test-service-video-2"
+      },
+      "description": "Short Description Test Video 2",
+      "category": "surfing",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.iefq9lMWEfNuZuMo5IR--gHaE8?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Long Description Service",
+      "location": {
+        "lat": -34.06782877243728,
+        "lng": 24.919193898971862
+      },
+      "priceRange": "budget",
+      "contactMethod": "phone",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "thursday",
+        "friday"
+      ],
+      "author": {
+        "_id": "1760787648654",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760788679396",
+      "_createdAt": "2025-10-18T11:57:59.396Z",
+      "title": "Test Service Video 3",
+      "slug": {
+        "current": "test-service-video-3"
+      },
+      "description": "Short Description Video 3",
+      "category": "accommodation",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.iefq9lMWEfNuZuMo5IR--gHaE8?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Long Description Video 3",
+      "location": {
+        "lat": -34.06114511351726,
+        "lng": 24.912043951415246
+      },
+      "priceRange": "moderate",
+      "contactMethod": "phone",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "author": {
+        "_id": "1760787648654",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760789000973",
+      "_createdAt": "2025-10-18T12:03:20.973Z",
+      "title": "Test Service Video 4",
+      "slug": {
+        "current": "test-service-video-4"
+      },
+      "description": "Short Description Test Video 4",
+      "category": "surfing",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.iefq9lMWEfNuZuMo5IR--gHaE8?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Long Description Test Video 4",
+      "location": {
+        "lat": -34.054650554249925,
+        "lng": 24.909811470816418
+      },
+      "priceRange": "budget",
+      "contactMethod": "phone",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday",
+        "wednesday"
+      ],
+      "author": {
+        "_id": "1760787648654",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760789515597",
+      "_createdAt": "2025-10-18T12:11:55.597Z",
+      "title": "Test Service Video 5",
+      "slug": {
+        "current": "test-service-video-5"
+      },
+      "description": "Short Description Video 5",
+      "category": "tours",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.iefq9lMWEfNuZuMo5IR--gHaE8?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Long Description",
+      "location": {
+        "lat": -34.05905932489423,
+        "lng": 24.913074327076238
+      },
+      "priceRange": "moderate",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday",
+        "wednesday"
+      ],
+      "author": {
+        "_id": "1760787648654",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760789684232",
+      "_createdAt": "2025-10-18T12:14:44.232Z",
+      "title": "Test Video 6",
+      "slug": {
+        "current": "test-video-6"
+      },
+      "description": "Short Description Test Video 6",
+      "category": "tours",
+      "image": "https://tse1.mm.bing.net/th/id/OIP.iefq9lMWEfNuZuMo5IR--gHaE8?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Long Description",
+      "location": {
+        "lat": -34.05891711006567,
+        "lng": 24.919943498149554
+      },
+      "priceRange": "budget",
+      "contactMethod": "phone",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday"
+      ],
+      "author": {
+        "_id": "1760787648654",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760798717974",
+      "_createdAt": "2025-10-18T14:45:17.974Z",
+      "title": "Test Service 9 ",
+      "slug": {
+        "current": "test-service-9-"
+      },
+      "description": "Test Service 9 Short Description",
+      "category": "surfing",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Long Description of Test Service 9",
+      "location": {
+        "lat": -34.0754124384174,
+        "lng": 24.910613295482918
+      },
+      "priceRange": "budget",
+      "contactMethod": "phone",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "thursday",
+        "friday"
+      ],
+      "author": {
+        "_id": "1760798649995",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760801957518",
+      "_createdAt": "2025-10-18T15:39:17.518Z",
+      "title": "Test Service Video 10",
+      "slug": {
+        "current": "test-service-video-10"
+      },
+      "description": "Short Description Test 10",
+      "category": "surfing",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Long Description",
+      "location": {
+        "lat": -34.06233020008908,
+        "lng": 24.921145603087343
+      },
+      "priceRange": "budget",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday",
+        "wednesday"
+      ],
+      "author": {
+        "_id": "1760800889889",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1760802230639",
+      "_createdAt": "2025-10-18T15:43:50.639Z",
+      "title": "Test Service Video 11",
+      "slug": {
+        "current": "test-service-video-11"
+      },
+      "description": "Short Description Video 11",
+      "category": "surfing",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Long Description",
+      "location": {
+        "lat": -34.05972298949231,
+        "lng": 24.917367558997046
+      },
+      "priceRange": "moderate",
+      "contactMethod": "phone",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday",
+        "wednesday",
+        "thursday"
+      ],
+      "author": {
+        "_id": "1760800889889",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762333453115",
+      "_createdAt": "2025-11-05T09:04:13.115Z",
+      "title": "Surfing Tours in JBay",
+      "slug": {
+        "current": "surfing-tours-in-jbay"
+      },
+      "description": "Surfing Tours in Jeffreys Bay and Kouga area. ",
+      "category": "surfing",
+      "image": "https://images.unsplash.com/photo-1502933691298-84fc14542831?w=800",
+      "pitch": "Surfing Tours in Jeffreys Bay and Kouga area. ",
+      "location": {
+        "lat": -34.082142365304094,
+        "lng": 24.908408847052844
+      },
+      "priceRange": "budget",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday"
+      ],
+      "author": {
+        "_id": "1760800889889",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762334940537",
+      "_createdAt": "2025-11-05T09:29:00.537Z",
+      "title": "Test Service before Final 1",
+      "slug": {
+        "current": "test-service-before-final-1"
+      },
+      "description": "Test Service before Final 1",
+      "category": "home",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Test Service before Final 1",
+      "location": {
+        "lat": -34.06754437631352,
+        "lng": 24.908630143241698
+      },
+      "priceRange": "moderate",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "wednesday",
+        "thursday",
+        "friday"
+      ],
+      "author": {
+        "_id": "1760800889889",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762336416319",
+      "_createdAt": "2025-11-05T09:53:36.320Z",
+      "title": "Testing Before Final Submission 2",
+      "slug": {
+        "current": "testing-before-final-submission-2"
+      },
+      "description": "Testing Before Final Submission 2.",
+      "category": "tours",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Testing Before Final Submission 2.",
+      "location": {
+        "lat": -34.03294704802567,
+        "lng": 24.786674786345788
+      },
+      "priceRange": "free",
+      "contactMethod": "email",
+      "contactDetails": "rscloete10@gmail.com",
+      "serviceRadius": 5,
+      "availability": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "author": {
+        "_id": "1760800889889",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762337894042",
+      "_createdAt": "2025-11-05T10:18:14.042Z",
+      "title": "Test before Final Submission 3",
+      "slug": {
+        "current": "test-before-final-submission-3"
+      },
+      "description": "Test before Final Submission 3.",
+      "category": "home",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Test before Final Submission 3.",
+      "location": {
+        "lat": -34.058586755225875,
+        "lng": 24.911354274822408
+      },
+      "priceRange": "budget",
+      "contactMethod": "email",
+      "contactDetails": "rscloete10@gmail.com",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday",
+        "wednesday",
+        "saturday",
+        "sunday"
+      ],
+      "author": {
+        "_id": "1760800889889",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762339580706",
+      "_createdAt": "2025-11-05T10:46:20.706Z",
+      "title": "Final Test Before Submission 4 ",
+      "slug": {
+        "current": "final-test-before-submission-4-"
+      },
+      "description": "Final Test Before Submission 4.",
+      "category": "surfing",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Final Test Before Submission 4.",
+      "location": {
+        "lat": -34.061051788987236,
+        "lng": 24.910153401969772
+      },
+      "priceRange": "moderate",
+      "contactMethod": "email",
+      "contactDetails": "rscloete10@gmail.com",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday",
+        "wednesday",
+        "saturday",
+        "sunday"
+      ],
+      "author": {
+        "_id": "1760800889889",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762340746432",
+      "_createdAt": "2025-11-05T11:05:46.432Z",
+      "title": "Final Testing Before Submission 5",
+      "slug": {
+        "current": "final-testing-before-submission-5"
+      },
+      "description": "Final Testing Before Submission 5.",
+      "category": "surfing",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Final Testing Before Submission 5.",
+      "location": {
+        "lat": -34.054176478874474,
+        "lng": 24.897103504330783
+      },
+      "priceRange": "premium",
+      "contactMethod": "email",
+      "contactDetails": "rscloete10@gmail.com",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday",
+        "wednesday",
+        "thursday"
+      ],
+      "author": {
+        "_id": "1760800889889",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762404912559",
+      "_createdAt": "2025-11-06T04:55:12.559Z",
+      "title": "Testing for Phase 3 Submission",
+      "slug": {
+        "current": "testing-for-phase-3-submission"
+      },
+      "description": "Testing for Phase 3 Submission.",
+      "category": "accommodation",
+      "image": "https://th.bing.com/th/id/R.e3ad7f72bab96d3b7f6566514d79065c?rik=7gN1DLYEOnIKtw&pid=ImgRaw&r=0",
+      "pitch": "Testing for Phase 3 Submission.",
+      "location": {
+        "lat": -34.062756826677315,
+        "lng": 24.917882746827527
+      },
+      "priceRange": "moderate",
+      "contactMethod": "email",
+      "contactDetails": "rscloete10@gmail.com",
+      "serviceRadius": 5,
+      "availability": [
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "author": {
+        "_id": "1760800889889",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762419625276",
+      "_createdAt": "2025-11-06T09:00:25.276Z",
+      "title": "Phase 3 Submission Testing 2",
+      "slug": {
+        "current": "phase-3-submission-testing-2"
+      },
+      "description": "Phase 3 Submission Testing 2.",
+      "category": "beauty",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Phase 3 Submission Testing 2.",
+      "location": {
+        "lat": -34.143634820312634,
+        "lng": 24.849362159829287
+      },
+      "priceRange": "budget",
+      "contactMethod": "email",
+      "contactDetails": "rscloete10@gmail.com",
+      "serviceRadius": 5,
+      "availability": [
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "saturday",
+        "sunday"
+      ],
+      "author": {
+        "_id": "1762419462164",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762430253239",
+      "_createdAt": "2025-11-06T11:57:33.239Z",
+      "title": "Final Submission Test 4",
+      "slug": {
+        "current": "final-submission-test-4"
+      },
+      "description": "Final Submission Test 4",
+      "category": "accommodation",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Final Submission Test 4. ",
+      "location": {
+        "lat": -34.059580775777334,
+        "lng": 24.913134358555226
+      },
+      "priceRange": "budget",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "saturday"
+      ],
+      "author": {
+        "_id": "1762430168580",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762436142341",
+      "_createdAt": "2025-11-06T13:35:42.341Z",
+      "title": "Final Submission Stage 3 Test 5",
+      "slug": {
+        "current": "final-submission-stage-3-test-5"
+      },
+      "description": "Final Submission Stage 3 Test 5",
+      "category": "accommodation",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Final Submission Stage 3 Test 5.",
+      "location": {
+        "lat": -34.0526120114336,
+        "lng": 24.90586457035324
+      },
+      "priceRange": "luxury",
+      "contactMethod": "phone",
+      "contactDetails": "0831234567",
+      "serviceRadius": 5,
+      "availability": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "sunday"
+      ],
+      "author": {
+        "_id": "1762435920730",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762438197292",
+      "_createdAt": "2025-11-06T14:09:57.292Z",
+      "title": "Final Phase Submission Test 5",
+      "slug": {
+        "current": "final-phase-submission-test-5"
+      },
+      "description": "Final Phase Submission Test 5.",
+      "category": "surfing",
+      "image": "https://tse3.mm.bing.net/th/id/OIP.nuA7ewZJ1c-NvQdYPQVbrQHaER?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "pitch": "Final Phase Submission Test 5.",
+      "location": {
+        "lat": -34.03497421190246,
+        "lng": 24.916672426026945
+      },
+      "priceRange": "moderate",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "author": {
+        "_id": "1762438114822",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    },
+    {
+      "_id": "1762439099593",
+      "_createdAt": "2025-11-06T14:24:59.593Z",
+      "title": "Final Submission Phase Test 6",
+      "slug": {
+        "current": "final-submission-phase-test-6"
+      },
+      "description": "Final Submission Phase Test 6.",
+      "category": "tours",
+      "image": "https://th.bing.com/th/id/R.e3ad7f72bab96d3b7f6566514d79065c?rik=7gN1DLYEOnIKtw&pid=ImgRaw&r=0",
+      "pitch": "Final Submission Phase Test 6.",
+      "location": {
+        "lat": -34.043983225204045,
+        "lng": 24.89848777997278
+      },
+      "priceRange": "premium",
+      "contactMethod": "whatsapp",
+      "contactDetails": "0736112042",
+      "serviceRadius": 5,
+      "availability": [
+        "monday",
+        "tuesday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "author": {
+        "_id": "1762438114822",
+        "name": "Ruben",
+        "username": "rscloete10",
+        "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Ruben",
+        "bio": "Service Provider"
+      },
+      "views": 0,
+      "isActive": true,
+      "featured": false
+    }
+  ],
+  "users": [
+    {
+      "_id": "author1",
+      "name": "John Surf",
+      "username": "johnsurf",
+      "email": "john@example.com",
+      "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=John",
+      "bio": "Professional surf instructor with 10 years experience"
+    },
+    {
+      "_id": "author2",
+      "name": "Sarah Ocean",
+      "username": "sarahocean",
+      "email": "sarah@example.com",
+      "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+      "bio": "Accommodation specialist"
+    },
+    {
+      "_id": "author3",
+      "name": "Mike Foodie",
+      "username": "mikefoodie",
+      "email": "mike@example.com",
+      "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Mike",
+      "bio": "Food enthusiast and tour guide"
+    },
+    {
+      "_id": "author4",
+      "name": "Lisa Zen",
+      "username": "lisazen",
+      "email": "lisa@example.com",
+      "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=Lisa",
+      "bio": "Certified yoga instructor"
+    },
+    {
+      "_id": "author5",
+      "name": "David Drive",
+      "username": "daviddrive",
+      "email": "david@example.com",
+      "image": "https://api.dicebear.com/7.x/avataaars/svg?seed=David",
+      "bio": "Professional driver"
+    }
+  ]
+}
