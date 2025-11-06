@@ -23,7 +23,7 @@ SkillGet is a location-based service directory featuring:
 
 ```bash
 # 1. Extract/clone the project
-cd iu-submission-ruben-cloete
+cd iu-web-app-project-Ruben-Cloete
 
 # 2. Install dependencies
 npm install
@@ -39,7 +39,7 @@ http://localhost:3000
 
 ## Live Demo
 
-**View Live Application**: <https://iu-submission-ruben-cloete.vercel.app/>
+**View Live Application**: (https://iu-web-app-project-ruben-cloete.vercel.app/)
 
 **Note**: The live demo is not yet complete. Some features may be limited. local testing is recommended for full functionality.
 
