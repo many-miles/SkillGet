@@ -39,7 +39,7 @@ http://localhost:3000
 
 ## Live Demo
 
-**View Live Application**: (https://iu-web-app-project-ruben-cloete.vercel.app/)
+**View Live Application**: (https://skillget.vercel.app/)
 
 **Note**: The live demo is not yet complete. Some features may be limited. local testing is recommended for full functionality.
 
